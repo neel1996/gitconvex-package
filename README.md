@@ -1,6 +1,10 @@
 
 # Gitconvex
 
+# 🚧 Archival Notice
+
+> This repo is a backup of the JS based code base for gitconvex. The backend has been replaced with GoLang from version 2.0.0 and the Node JS backend or any related code base will not be supported anymore - 14/11/2020
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/47709856/87170859-8bfff080-c2ef-11ea-9140-b9e5db1c17d8.png" width="280">
     <p align="center">
